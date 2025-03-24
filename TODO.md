@@ -1,0 +1,1 @@
+- Fix links in "Supplements for hormonal acne.md"
