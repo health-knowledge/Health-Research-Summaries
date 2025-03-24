@@ -1,4 +1,4 @@
-# Research based acne treatment regimens
+# Research based acne treatment regimens / protocols
 
 # Benzoyl Peroxide
 "Enrolled patients were instructed to apply the assigned study gel in a quantity sufficient to cover the entire face once daily for 12 weeks."
