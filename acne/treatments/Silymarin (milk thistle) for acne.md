@@ -1,7 +1,8 @@
 # Silymarin (milk thistle) for acne
 
 ## Antioxidants including silymarin for acne
-Oral antioxidants, Silymarin, N-acetylcysteine, and Selenium, effectively reduce oxidative stress and inflammation in acne patients, improving clinical improvement and biochemical data.
+- Oral antioxidants, Silymarin, N-acetylcysteine, and Selenium, effectively reduce oxidative stress and inflammation in acne patients, improving clinical improvement and biochemical data.
+
 Sahib, A., Al-Anbari, H., Salih, M., & Abdullah, F. (2013). Effects of Oral Antioxidants on Lesion Counts Associated with Oxidative Stress and Inflammation in Patients with Papulopustular Acne. Journal of clinical & experimental dermatology research, 3, 1-6. https://doi.org/10.4172/2155-9554.1000163.
 
 ## Silymarin comparable to doxycycline for acne
@@ -10,7 +11,8 @@ Sahib, A., Al-Anbari, H., Salih, M., & Abdullah, F. (2013). Effects of Oral Anti
 Morteza, M., Hayati, Z., Namazi, N., & Majd, F. (2019). Efficacy and safety of oral silymarin in comparison with oral doxycycline and their combination therapy in the treatment of acne vulgaris. Dermatologic Therapy, 32. https://doi.org/10.1111/dth.13095.
 
 ## Protective during accutane/isotretinoin
-Silymarin effectively prevents increased liver enzymes in patients taking isotretinoin, making it a low-cost, low-complication treatment for this issue.
+- Silymarin effectively prevents increased liver enzymes in patients taking isotretinoin, making it a low-cost, low-complication treatment for this issue.
+
 Mirnezami, M., Jafarimanesh, H., Rezagholizamenjany, M., Alimoradian, A., & Ranjbaran, M. (2020). The effect of silymarin on liver enzymes in patients taking isotretinoin: A randomized clinical trial. Dermatologic Therapy, 33. https://doi.org/10.1111/dth.13236.
 
 ---
@@ -30,6 +32,7 @@ Potential side effects:
 Atallah, Dalia Abdel-Aziz, et al. "Topical silymarin cream as a novel therapy versus salicylic acid peels in acne vulgaris: a split-face clinical trial." Journal of Cutaneous Medicine and Surgery 28.1 (2024): 22-28.
 
 >  Results: After a 4-week application, the modified Global Acne Grading Score (mGAGS), Global Evaluation Acne (GEA) scale, and the acne lesion counts were significantly decreased. Sebum secretion, skin pigmentation, and erythema were also reduced during the study period, yet only the melanin pigmentation index reached statistical significance. Subgroup analysis revealed that the patients who took the low-dose oral isotretinoin during the study period showed more noticeable improvements in skin sebum output and melanin pigmentation. Additionally, no adverse event was associated with using the 0.5% SAS. 
+
 Kim, J., Lee, Y. N., Lee, J., Lee, S. G., Kim, H., Choi, Y. S., Draelos, Z. D., & Kim, J. (2023). Efficacy and safety of silymarin containing antioxidant serum as an adjuvant treatment of mild-to-moderate acne vulgaris: A prospective, open-label pilot study. Journal of cosmetic dermatology, 22(2), 561–568. https://doi.org/10.1111/jocd.15439
 
 ## Glucose/lipid metabolic dysfunction
