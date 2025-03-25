@@ -5,7 +5,7 @@ https://banish.com/blogs/article/how-to-get-rid-of-acne-scars
 HTML table: CAI - 428cc711-d290-4a14-9b40-6701847c69a1
 
 ![alt text](/acne/assets/Scarring%20Blog/HTML_table1.png "Banish Scar Treatments I")
-![alt text](/acne/assets/Scarring%20Blog/HTML_table2.png "Banish Scar Treatments I")
+![alt text](/acne/assets/Scarring%20Blog/HTML_table2.png "Banish Scar Treatments II")
 
 ---
 
