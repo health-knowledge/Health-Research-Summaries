@@ -94,3 +94,10 @@ GROVER, R W, and N ARIKIAN. “The effect of intralesional insulin and glucagon 
 ---
 
 https://discord.com/channels/1169738819688468501/1341910106090115132/1341911951458177044
+
+---
+
+## Proposed: Insulin index instead of glycemic index
+> In recent studies, apart from the consumption frequency of foodstuffs with high glycemic index values, the consumption frequency of certain foodstuffs with low glycemic index value was also found to be high in AV patients. In this regard, we found that acne is triggered by foodstuff such as feta, cola, cheese, and peanut in which insulin index value was higher than glycemic index value. This result may suggest that insulin index may be used as another marker for AV-triggering foodstuffs
+
+Kutlu, Ö., Balta, I., & Ekşioğlu, H. M. (2020). Determination of the effect of diet on the development and severity of acne vulgaris by using insulin index and glycemic index. Turkiye Klinikleri Journal of Dermatology, 30(1), 6-14.
