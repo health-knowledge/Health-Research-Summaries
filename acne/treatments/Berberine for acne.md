@@ -2,6 +2,7 @@
 
 https://www.tandfonline.com/doi/full/10.3109/19390211.2012.726702
 Oral aqueous extract of dried barberry is a safe, well-tolerated, and effective treatment for teenagers with moderate to severe acne vulgaris.
+Video by NutritionFacts on this paper: https://www.youtube.com/watch?v=0B1GP9HgDWk
 
 Acne score improvements in PCOS patients:
 https://www.mdpi.com/2072-6643/13/10/3665
