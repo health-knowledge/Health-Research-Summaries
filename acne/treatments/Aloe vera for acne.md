@@ -18,3 +18,10 @@ The study suggests that Ayurvedic formulations (including Aloe vera, turmeric), 
 > The results were statistically analyzed and indicated that combination of use of internal and external preparation showed better efficacy as compared to the use of oral formulation alone. 
 
 Lalla, J K et al. “Clinical trials of ayurvedic formulations in the treatment of acne vulgaris.” Journal of ethnopharmacology vol. 78,1 (2001): 99-102. doi:10.1016/s0378-8741(01)00323-3
+
+---
+
+## Aloe vera juice - not statisically different
+> Although, the mean number of inflamed and total acne lesions decreased from baseline to the endpoint in the case group, these changes were not statistically different from those documented in the control group (p=0.96 and 0.91, respectively). In conclusion, oral Aloe vera juice may be helpful in decreasing noninflamed and total facial acne lesion counts in patients with mild-to-moderate acne vulgaris, this beneficial effect is not significant when compared to controls.
+
+Forest,J. M. and Rafikhah,N., 20143349757, English, Journal article, Pakistan, 2077-2033 1992-1470, 6, (2), Faisalabad, Asian Journal of Clinical Nutrition, (29–34), Asian Network for Scientific Information, Aloe vera juice and acne vulgaris: a placebo-controlled study., (2014)
