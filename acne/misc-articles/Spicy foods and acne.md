@@ -28,3 +28,10 @@ Mahmoud, Ahmed M., et al. "Prevalence rate, risk factors of acne vulgaris and it
 > The vast majority (85%) of the respondents in the study had reported that consumption of **spicy foods** led to flares and/or aggravated the pre-existing acne in their instance.
 
 Dave, Kairavee, and Vivek Choksi. "Factors aggravating or precipating acne." National Journal of Community Medicine 1.01 (2010): 44-46.
+
+---
+
+## Case control trial with 45 volunteers
+> Changes in the mean number of noninflamed, inflamed or total lesions within the study period did not differ significantly between three study groups (p=0.22, 0.54 and 0.46, respectively). In patients receiving red pepper, mild amelioration of acne lesions was documented. According to the findings of this study, neither black pepper, nor red pepper is associated with exacerbation of acne lesions. Red pepper even may have mild ameliorating effect on acne lesions
+
+Dougan,P. and Rafikhah,N., 20143349761, English, Journal article, Pakistan, 2077-2033 1992-1470, 6, (2), Faisalabad, Asian Journal of Clinical Nutrition, (53–58), Asian Network for Scientific Information, Red and black types of pepper and acne vulgaris: a case-control study., (2014)
