@@ -21,3 +21,12 @@ Citations:
 2. Azanbayeva, D., Batpenova, G., Tarkina, T., Algazina, T., & Kotlyarova, T. (2018). СLINICAL AND LABORATORY CHARACTERISTICS OF PATIENTS WITH ADOLESCENCE ACNE AND ACNE TARDA. Georgian medical news, (282), 103–106. 
 3. Lobo, R. A., Kletzky, O. A., Kaptein, E. M., & Goebelsmann, U. (1980). Prolactin modulation of dehydroepiandrosterone sulfate secretion. American journal of obstetrics and gynecology, 138(6), 632–636. https://doi.org/10.1016/0002-9378(80)90079-4
 4. Magrini, B., Ebiner, J. R., Burckhardt, P., & Felber, J. P. (1976). Study on the relationship between plasma prolactin levels and androgen metabolism in man. The Journal of clinical endocrinology and metabolism, 43(4), 944–947. https://doi.org/10.1210/jcem-43-4-944
+
+---
+
+## Spermatogenic Retinoid Competition
+
+In males with marginal vitamin A status, the testes—due to their high, demand-driven use of retinoic acid (RA) to support continuous spermatogenesis—may act as a major sink for available retinoids. This preferential allocation of vitamin A metabolites to the testis could reduce RA availability for peripheral tissues, particularly the skin. Since RA is essential for keratinocyte differentiation, sebum regulation, and anti-inflammatory signaling, such a redistribution may impair cutaneous RA-dependent processes. In individuals predisposed to acne, this localized RA insufficiency could contribute to or exacerbate acne pathophysiology.
+
+Caveats:
+    •    This is currently a plausible but unproven mechanism. There are no human studies directly measuring tissue-specific RA levels in acne patients under marginal vitamin A conditions.
