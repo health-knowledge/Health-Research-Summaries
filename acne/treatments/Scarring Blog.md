@@ -109,3 +109,6 @@ Laser Treatments
 
 rosehip seed oil
 - https://www.dermatologytimes.com/view/rosehip-oil-showed-significant-improvement-in-scar-healing
+
+Dermaroller + copper peptides
+- https://jmscr.igmpublication.org/home/index.php/archive/159-volume-07-issue-02-february-2019/6634-copper-peptides-in-acne-scars
