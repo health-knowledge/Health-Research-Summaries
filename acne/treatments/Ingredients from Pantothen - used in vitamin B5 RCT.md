@@ -1,4 +1,4 @@
-# Ingredients from Pantothen - used in vitamin B5 RCT
+# Ingredients from Pantothen - used in vitamin B5 acne trial
 
 > The dosage of the study agent or the placebo administered was two tablets taken orally, twice a day with food for 12 weeks. Each four-tablet dose of the study agent contained 2.2 g of pantothenic acid.
 
