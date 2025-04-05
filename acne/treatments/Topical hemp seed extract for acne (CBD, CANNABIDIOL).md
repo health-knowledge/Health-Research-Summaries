@@ -22,3 +22,10 @@ The small sample size (20 subjects initially, 18 completing the study) limits th
 ---
 
 Ali, A., & Akhtar, N. (2015). The safety and efficacy of 3% Cannabis seeds extract cream for reduction of human cheek skin sebum and erythema content. Pakistan journal of pharmaceutical sciences, 28(4), 1389–1395.
+
+---
+
+## Topical CBD in 9 women, no control - improvement of visible pores
+> Results: Global improvement across all 13 domains was observed, with the greatest mean differences for visible pores (2.0; 95% CI, 1.5-2.5), dehydration (2.0; 95% CI, 1.4-2.6), surface roughness (1.8; 95% CI, 1.2-2.4), static wrinkles (1.8; 95% CI, 1.1-2.5), and dynamic wrinkles (1.6; 95% CI, 0.8-2.3). Patient satisfaction (100%) and willingness to recommend the product to others (90%) were high, and tolerability of CR-Topical was excellent. 
+
+Few, Julius, et al. "A single-center study evaluating the effects of a novel retinol and cannabidiol combination topical on facial skin." Aesthetic Surgery Journal Open Forum. Vol. 4. US: Oxford University Press, 2022.
