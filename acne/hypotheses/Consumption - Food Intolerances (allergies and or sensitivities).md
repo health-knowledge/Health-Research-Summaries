@@ -26,6 +26,7 @@ An intolerance may stem from one or more of the following, though not exclusivel
    - Estrogens, Progesterons, Androgens, Corticosteroids
   - [Histamines](https://discord.com/channels/1169738819688468501/1179952310831566868) (particularly in aged cheeses)
   - Mould presence (particularly in aged cheeses)
+  - [Iodine content](https://discord.com/channels/1169738819688468501/1179952442222334093/1179952442222334093)
 
 ---
 
