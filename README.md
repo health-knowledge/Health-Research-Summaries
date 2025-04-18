@@ -1,5 +1,5 @@
 # health-research-summaries
-A collaborative markdown repository featuring carefully curated excerpts, quotations, hypotheses, and theoretical concepts sourced directly from scientific literature on various health conditions
+A collaborative repository featuring curated excerpts, quotations, sourced directly from scientific literature for hypotheses, and treatments of various health conditions
 
 ## Acne hypotheses list
 Can be found [here](/acne/hypotheses)
