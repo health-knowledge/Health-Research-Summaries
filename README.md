@@ -1,5 +1,5 @@
 # health-research-summaries
-A collaborative repository featuring curated excerpts, quotations, sourced directly from scientific literature for hypotheses, and treatments of various health conditions
+A collaborative repository featuring curated excerpts, quotations, sourced directly from scientific literature for hypotheses, and treatments of various health conditions such as acne, androgenetic alopecia, etc.
 
 ## Acne hypotheses list
 Can be found [here](/acne/hypotheses)
