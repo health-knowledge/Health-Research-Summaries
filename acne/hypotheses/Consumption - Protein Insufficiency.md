@@ -19,3 +19,5 @@ Balik, Z. B., & Akoglu, G. (2023). Relationship between serum amino acid levels 
 
 ---
 
+## Glutamine, arginine, tryptophan for leaky gut
+https://discord.com/channels/1169738819688468501/1179948878267678832/1352822115749072916
