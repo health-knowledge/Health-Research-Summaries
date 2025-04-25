@@ -21,10 +21,10 @@ Naturopath on gut and acne: https://youtu.be/Ql7TX8s3wHM?t=98
 This study identified gut microbes and blood metabolites that are causally associated with acne. A potential causal relationship between gut microbes and blood metabolites was obtained via mediation analysis.
 He, X., Zhang, Z., Jiang, H. et al. Causal association of gut microbes and blood metabolites with acne identified through systematic mendelian randomization. Sci Rep 14, 26816 (2024). https://doi.org/10.1038/s41598-024-78603-z
 
-- Do elimination diet to find food allergens or sensitivities. Start with paleo, then keto (low/no carb), then carnivore (more restrictive variant of keto) if issues still persist. Use these elimination diets as short term tools. Use cronometer to ensure you're getting vital nutrients.
+- Do elimination diet to find food allergens or sensitivities. Start with Mediterranean diet, then paleo, then keto (low/no carb), then carnivore (more restrictive variant of keto) if issues still persist. Use these elimination diets as short term tools. Use cronometer to ensure you're getting vital nutrients.
  - Incorporate foods that promote gut health, such as bone broth (https://pubmed.ncbi.nlm.nih.gov/22629114/), fermented foods (like raw sauerkraut, kimchi, and [raw A2/goat kefir](https://discord.com/channels/1169738819688468501/1358325181868802078)).
- - Supplements: probiotics (https://discord.com/channels/1169738819688468501/1258643805150777414), prebiotics (https://discord.com/channels/1169738819688468501/1259083823363129366), L-Glutamine, Digestive Enzymes, Zinc Carnosine, Omega-3 fatty acids
- - Address Underlying Conditions: Candida overgrowth https://discord.com/channels/1169738819688468501/1179948878267678832/1287019523584819200, small intestinal bacterial overgrowth (SIBO),  SIFO, parasitic infections (https://pubmed.ncbi.nlm.nih.gov/29783245/).
+ - Supplements: probiotics (https://discord.com/channels/1169738819688468501/1258643805150777414), L-Glutamine, Zinc Carnosine, [colustrum](https://discord.com/channels/1169738819688468501/1365165884855025695), prebiotics (https://discord.com/channels/1169738819688468501/1259083823363129366), Omega-3 fatty acids, Digestive Enzymes
+ - Address Underlying Conditions: Candida overgrowth https://discord.com/channels/1169738819688468501/1179948878267678832/1287019523584819200, small intestinal bacterial overgrowth (SIBO), SIFO, parasitic infections (https://pubmed.ncbi.nlm.nih.gov/29783245/).
  - Avoid pesticides (see https://pubmed.ncbi.nlm.nih.gov/38488555/) and other environmental toxins https://discord.com/channels/1169738819688468501/1210064966259056652
 
 ---
